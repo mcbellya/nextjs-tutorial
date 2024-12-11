@@ -30,6 +30,6 @@
     ".next/types/**/*.ts",
     "app/lib/placeholder-data.ts",
     "scripts/seed.js"
-, "../../../.emacs.d/backups/!home!user!Development!study!nextjs-dashboard!app!page.tsx~", "../../../.emacs.d/backups/!home!user!Development!study!nextjs-dashboard!app!layout.tsx~", "../../../.emacs.d/backups/!home!user!Development!study!nextjs-dashboard!app!ui!dashboard!nav-links.tsx~", "../../../.emacs.d/backups/!home!user!Development!study!nextjs-dashboard!app!ui!dashboard!sidenav.tsx~"  ],
+  ],
   "exclude": ["node_modules"]
 }
