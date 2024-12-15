@@ -1,4 +1,4 @@
-import SideNav from '../../../../../.emacs.d/backups/!home!user!Development!study!nextjs-dashboard!app!ui!dashboard!sidenav.tsx~';
+import SideNav from '@/app/ui/dashboard/sidenav';
 
 export default function Layout({ children }: { children: React.ReactNode }) {
   return (
